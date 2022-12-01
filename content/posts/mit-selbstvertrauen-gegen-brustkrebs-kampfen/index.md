@@ -10,11 +10,9 @@ Die Schönheit bei Brustkrebs ist das Überleben. Doch durch die körperlichen V
 
 Ein Knoten in der weiblichen Brust sorgt für Panik. Brustkrebs ist die häufigste Krebskrankheit bei Frauen und sollte schnellstmöglich behandelt werden. Die Krankheit schwächt nicht nur den Körper oder verursacht Nebenwirkungen, sondern kann das Selbstbild einer Frau einschränken.
 
-`{{</*box*/>}}`
+{{<box>}}
 1989 gab es in den USA eine Brustkrebspatientin, die wegen ihrem äusserlichen Erscheinungsbild das Spital nicht mehr verlassen wollte. Der Arzt hat daraufhin eine Kosmetikerin engagiert, welche ihr eine schöne Kopfbedeckung gemacht hat und sie auch schminkte. Danach schaute die Patientin mit einem Lächeln in den Spiegel und war bereit, nach Hause zu gehen. Das war der Beginn von der Stiftung “look good feel better”. Im Jahr 2005 wurde die Stiftung auch in der Schweiz gegründet. Heute ist die Stiftung in 27 verschiedenen Ländern vertreten. Die Stiftung bietet in der ganzen Schweiz Kurse an, in denen die Krebspatientinnen lernen, wie sie die gereizte Haut pflegen und schminken können, damit die Krebspatientinnen sich als Frau wiedererkennen und sich nicht ihre eigene Haut schämen. Die Schminkkurse sind eine ehrenamtliche Sache und werden von Kosmetikexpertinnen geleitet. 
-`{{</*/box*/>}}`
-
-``
+{{</box>}}
 
 ![Einblick in den Raum, in welchem der Workshop stattgefunden hat. (Foto: Josephine Beck)](workshop.jpeg)
 
@@ -46,11 +44,9 @@ Die Ursachen von Brustkrebs sind zurzeit noch unbekannt. Doch es gibt bestimmte 
 
 > *Florence Schneider*
 
-``
-
-`{{</*box*/>}}`
+{{<box>}}
 Florence Schneider hat 2017 erfolgreich gegen Brustkrebs gekämpft. Sie hat zwei Kinder und ist verheiratet. Der Moment, als sie die Diagnose bekam, war für sie schrecklich. «Die Nachricht kam wie aus heiterem Himmel, so was kann jeden Tag passieren», sagt sie. «Deshalb können wir nicht immer Angst haben, das bringt uns nicht weiter. Und wir sollten das Leben geniessen, weil es viel zu kurz ist.» Mit diesen positiven Gedanken geht sie heute durchs Leben. Ihr Ehemann hat sie in dieser schweren Zeit stets unterstützt und war sozusagen ihr Sparringpartner. Sie wollten die Kinder erst informieren, als sie über das weitere Vorgehen der Therapie Bescheid wussten. Im Sommer 2022 bestätigt der Onkologe in einer Nachkontrolle nach fünf Jahren, dass sich der Brustkrebs zurückgezogen hat. Daher ist das Risiko eines Rückfalls sehr klein. «Man sollte stets mit positiven Gedanken dieser Krankheit trotzen und kämpfen, kämpfen und kämpfen!».
-`{{</*/box*/>}}`
+{{</box>}}
 
 Die Kosmetikerinnen begrüssen die Brustkrebspatientinnen und zeigen Schritt für Schritt, wie man das Gesicht am besten pflegen kann. Dabei erklären sie, dass es durch eine liebevolle Körper- und Schönheitspflege helfen kann, sich schrittweise in der eigenen Haut wohler zu fühlen. Die Hautpflege ist auch wichtig, weil durch die Chemotherapie die Haut etwas gereizt oder trocken ist. Nebenbei verstopfen die Medikamente die Haut und deshalb ist eine Gesichtspflege morgens wichtig.
 
