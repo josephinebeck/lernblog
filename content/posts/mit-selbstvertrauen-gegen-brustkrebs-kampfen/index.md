@@ -3,7 +3,8 @@ title = "Mit Selbstvertrauen gegen Brustkrebs kämpfen"
 date = "2022-12-01"
 draft = false
 pinned = false
-image = "sonnenuntergang.jpg"
+tags = ["Deutsch", "Reportage"]
+image = "pink-ribbon.jpg"
 +++
 {{<lead>}}
 Die Schönheit bei Brustkrebs ist das Überleben. Doch durch die körperlichen Veränderungen wird die Weiblichkeit auf eine harte Probe gestellt. 
